@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b7ad",
+      "title": "Chief Technology Officer",
+      "type": "Full-Time",
+      "location": "Bathroom",
+      "description": "Working hard and having a lot of Donuts, every second, hour, day,month, and year. Ordering others to bring you coffee.",
+      "salary": "Over $200K",
+      "company": {
+        "name": "PotatoWeb",
+        "description": "Creates website to preserve potato's integrity and rights. Creates website to preserve potato's integrity and rights.Creates website to preserve potato's integrity and rights.",
+        "contactEmail": "Slicker@gmail.com",
+        "contactPhone": "+1 111 11 11 11"
+      }
     }
   ]
 }

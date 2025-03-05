@@ -27,7 +27,7 @@ export const Navbar = () => {
                 <NavLink to="/jobs" className={LinkIsActiveClass}>
                   Jobs
                 </NavLink>
-                <NavLink to="/add-job.html" className={LinkIsActiveClass}>
+                <NavLink to="/add-job" className={LinkIsActiveClass}>
                   Add Job
                 </NavLink>
               </div>
